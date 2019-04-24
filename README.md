@@ -14,6 +14,6 @@ A single-player game built using Java & JavaFX.
 
 ## Frames
 
-![Frames 1](https://github.com/yunjilee/slime-dungeon-game/tree/master/src/images/screenshots/1.png)
+![Frames 1](https://github.com/yunjilee/slime-dungeon-game/blob/master/src/images/screenshots/1.png)
 
-![Frames 2](https://github.com/yunjilee/slime-dungeon-game/tree/master/src/images/screenshots/2.png)
+![Frames 2](https://github.com/yunjilee/slime-dungeon-game/blob/master/src/images/screenshots/2.png)
